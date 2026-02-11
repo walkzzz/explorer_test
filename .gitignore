@@ -1,0 +1,21 @@
+# 虚拟环境
+.venv/
+
+# 测试结果
+.pytest_cache/
+allure-results/
+allure-report/
+
+# 截图
+/tmp/
+
+# IDE文件
+.idea/
+.vscode/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 日志文件
+*.log

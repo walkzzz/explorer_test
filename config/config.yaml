@@ -1,0 +1,23 @@
+app:
+  name: "explorer"
+  path: "explorer.exe"
+  timeout: 10
+  
+selectors:
+  address_bar: 
+    control_type: "Edit"
+    automation_id: "41477"
+  navigation_pane:
+    class_name: "SysTreeView32"
+  file_list:
+    class_name: "DirectUIHWND"
+  search_box:
+    name: "搜索"
+  this_pc:
+    name: "此电脑"
+  quick_access:
+    name: "快速访问"
+  
+waits:
+  implicit_wait: 5
+  explicit_wait: 10
