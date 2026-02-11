@@ -2,3 +2,5 @@ pytest>=7.0.0
 allure-pytest>=2.13.0
 pywinauto>=0.6.8
 PyYAML>=6.0
+httpx>=0.24.0
+langsmith>=0.0.1
