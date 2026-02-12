@@ -1,0 +1,17 @@
+{
+  "exclude": [
+    "**/__pycache__",
+    ".venv",
+    "allure-results",
+    "allure-report"
+  ],
+  "reportGeneralTypeIssues": false,
+  "reportCallIssue": false,
+  "reportMissingTypeStubs": false,
+  "reportUnknownMemberType": false,
+  "reportUnknownVariableType": false,
+  "reportUnknownFunctionType": false,
+  "reportUnknownParameterType": false,
+  "reportUnknownReturnType": false,
+  "pythonVersion": "3.12"
+}
